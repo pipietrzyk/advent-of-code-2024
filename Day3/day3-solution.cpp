@@ -125,7 +125,6 @@ int main(int argc, char* argv[]) {
     }
 
 
-    
     string m;
     string memory;
 
